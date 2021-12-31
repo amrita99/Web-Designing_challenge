@@ -1,0 +1,29 @@
+button{
+    background: grey;
+    color: hotpink;
+}
+#word{
+    color: hotpink;
+}
+#title{
+    color: indigo;
+}
+.content{
+    color: lawngreen;
+    background-color: lightpink;
+}
+#outer-box{
+    width: 300px;
+    height: 200px;
+    background: lime;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    border: 10px;
+    border-color: maroon;
+
+}
+#inner-box{
+    width: 12px;
+    background-color: maroon;
+}
